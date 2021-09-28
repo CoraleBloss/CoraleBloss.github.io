@@ -1,0 +1,40 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+
+<script>
+function myfirstfunction(param) {
+ 
+ value = param 
+ console.log(value);
+ text = '';
+
+ switch(value) {
+ 	case 0:
+     text = 'You are a super outgoing person and the life of the party';
+     break;
+    
+     case 1:
+     text = 'You stick to a small group of friends and love adventure'
+     break;
+ } 
+ 	document.getElementById("netflixtext").innerHTML= text;
+
+}
+</script>
+<style> 
+   	   body {background-color:darkred;}
+   	</style> 
+
+<body>
+<h1> What your favorite Netflix show says about you </h1>
+<p>Your favorite Netflix show is </p>
+        <button class="button" onclick="myfirstfunction(0)">Too hot to Handle</button><br>
+		<button class="button" onclick="myfirstfunction(1)">Outer Banks</button><br>
+
+				<p id="netflixtext"></p>
+
+
+   </body>
+
+</html> 
