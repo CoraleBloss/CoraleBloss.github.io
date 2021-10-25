@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+#container{
+	position: absolute;
+	margin: auto;
+	width: 755px;
+	height: 987px;
+	
+}
+#background{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	left: 100px;
+	right: 100px;
+	background-image: url("blankface.png");
+
+}
+
+#skincolor{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+}
+
+#face{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+
+	background-image: url("blankface.png");
+}
+
+#blush{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+
+}
+#eyeshadow{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+}
+
+
+#lipstick{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+}
+
+.facecolor1{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor1.PNG);
+}
+
+.facecolor2{
+	position:absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor2.png);
+}
+
+.facecolor3{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor3.png);
+
+}
+
+.facecolor4{
+	position: absolute;
+	width: 555PX;
+	height: 987px;
+	background-image: url(facecolor4.png);
+
+}
+
+.facecolor5{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor5.png);
+
+}
+
+.facecolor6{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor6.png);
+}
+
+.facecolor7{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor7.png);
+}
+
+.facecolor8{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(facecolor8.png);
+}
+
+.blush1{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(blush1.png);
+}
+
+.blush2{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(blush2.png);
+}
+
+.blush3{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(blush3.png);
+}
+
+.blush4{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(blush4.png);
+}
+.eyeshadow1{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(eyeshadow1.png);
+}
+.eyeshadow2{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(eyeshadow2.png);
+}
+.eyeshadow3{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(eyeshadow3.png);
+}
+.eyeshadow4{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(eyeshadow4.png);
+}
+
+.lipstick1{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(lipstick1.png);
+}
+.lipstick2{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(lipstick2.png);
+}
+.lipstick3{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(lipstick3.png);
+}
+.lipstick4{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	background-image: url(lipstick4.png);
+}
+

@@ -1,0 +1,17 @@
+#container{
+	position: absolute;
+	margin: auto;
+	width: 755px;
+	height: 987px;
+	background-color: black;
+}
+
+#background{
+	position: absolute;
+	width: 555px;
+	height: 987px;
+	left: 100px;
+	right: 100px;
+	background-image: url(blankface.png);
+}
+
